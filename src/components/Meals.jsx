@@ -1,3 +1,4 @@
+import React from 'react';
 import { useGlobalContext } from "../context"
 import {BsHandThumbsUpFill} from "react-icons/bs"
 
